@@ -13,6 +13,7 @@ Tech Stack:
 1. Python
 2. OpenAI's CLIP Model (open-source implementation)
 3. Chroma DB (for storing and searching vector embeddings)
+4. Streamlit
 
 HOW TO USE: 
 Install dependencies: Install all required Python packages by running: pip install -r requirements.txt
